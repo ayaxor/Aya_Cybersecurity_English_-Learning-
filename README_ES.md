@@ -1,23 +1,32 @@
 
 
-# Aya Gamal – Ciberseguridad & Aprendizaje de Inglés
+# Aya Gamal – Ciberseguridad & Aprendizaje del Inglés
 
-Bienvenida a mi repositorio personal de estudios.
+Bienvenida a mi repositorio personal de investigación y autoaprendizaje.
 
-Este repositorio contiene:
+## Contenido de este repositorio:
+- Mis materiales de estudio sobre ciberseguridad
+- Mi progreso en el idioma inglés
+- Notas, resúmenes, referencias de investigación
+- Archivos PDF externos y recursos
 
-- notas de estudio de ciberseguridad
-- progreso en el aprendizaje del inglés
-- referencias y recursos en PDF
+---
 
-### Libro principal (PDF):
+## Libro principal de estudio
+📘 Enlace a mi libro principal:
 
-https://drive.google.com/file/d/1TXhAV5eOvgz8aamU8w6dq8BVv6_X_dHC/view?usp=drivesdk
+https://drive.google.com/file/d/1TXhAV5eOvgz8aaMU8w6dq8BVv6_X_dHC/view?usp=drivesdk
 
-### Mis objetivos
+---
 
-- Convertirme en una ingeniera de ciberseguridad profesional
-- Mejorar mi inglés a un nivel fluido
-- Desarrollar fuertes habilidades de aprendizaje autónomo
-- Documentar y compartir mi progreso de forma profesional
+## Mis Objetivos
+- Convertirme en una ingeniera profesional en ciberseguridad
+- Mejorar mi fluidez y confianza en inglés
+- Construir habilidades fuertes de autoaprendizaje
+- Documentar y compartir mi progreso como una verdadera investigadora
+
+---
+
+### Creado por:
+**Aya Gamal**
 
