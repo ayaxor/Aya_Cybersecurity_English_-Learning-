@@ -1,5 +1,10 @@
 
 
+![Made with Love](https://img.shields.io/badge/Made%20With-Love-red)
+![Focus-Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![Learning-English](https://img.shields.io/badge/Learning-English-pink)
+![Self-Education](https://img.shields.io/badge/Self--Education-Active-success)
+
 # Aya Gamal – Cybersecurity & English Learning Research Repository
 
 Welcome to my personal research & study repository.
