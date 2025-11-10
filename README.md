@@ -25,7 +25,13 @@ https://drive.google.com/file/d/1TXhAV5eOvgz8aaMU8w6dq8BVv6_X_dHC/view?usp=drive
 - Build strong self-education skills
 - Document and share progress like a researcher
 
----
+--
 
-### Proudly built by:
-**Aya Gamal*
+## Multi-Language Documentation
+
+| Language | File |
+|---------|------|
+| Arabic 🇸🇦 | [Arabic Version](README_AR.md) 
+| English 🇺🇸 | [English Version](README_EN.md) 
+| French 🇫🇷 | [French Version](README_FR.md) 
+| Spanish 🇪🇸 | [Spanish Version](README_ES.md) 
