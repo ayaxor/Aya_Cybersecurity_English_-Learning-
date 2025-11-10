@@ -1,25 +1,32 @@
 
 
-# Aya Gamal – Cybersecurity & English Learning Repository
+# Aya Gamal – Cybersecurity & English Learning Research Repository
 
-Welcome to my professional research & self-education repository.
+Welcome to my personal research & self-learning repository.
 
-This repository contains:
+## This repository contains:
+- my cybersecurity study materials
+- my English language learning progress
+- notes, summaries, research references
+- external PDF files & resources
 
-- Cybersecurity study notes
-- English learning progress
-- PDF references and study resources
-- Professional documentation of my growth journey
+---
 
-### Main book reference (PDF link)
+## Main Study PDF Book
+📘 My main study book link:
 
-This repo includes my main PDF study book, available here:
-https://drive.google.com/file/d/1TXhAV5eOvgz8aamU8w6dq8BVv6_X_dHC/view?usp=drivesdk
+https://drive.google.com/file/d/1TXhAV5eOvgz8aaMU8w6dq8BVv6_X_dHC/view?usp=drivesdk
 
-### My Goals
+---
 
+## My Goals
 - Become a professional Cybersecurity Engineer
-- Improve English fluency to a professional level
-- Build strong self-education & research skills
-- Document and share progress in a professional way
+- Improve English fluency and confidence
+- Build strong self-education skills
+- Document and share my progress like a real researcher
+
+---
+
+### Created by:
+**Aya Gamal**
 
