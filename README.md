@@ -1,35 +1,25 @@
 
 
-<p align="center">
-  <img src="file_000000004b3471f48ef884f162f5891d.png" alt="Quiet Wire AI Banner" width="100%">
-</p>
+![Quiet Wire AI Banner](file_000000004b3471f48ef884f162f5891d.png)
 
-<h1 align="center">🔐 Cybersecurity Multi-Language Handbook</h1>
+# 🔐 Cybersecurity Multi-Language Handbook
 
-<p align="center">
-  <b>By Eng. Aya Jamal — Quiet Wire AI</b><br>
-  Under the supervision of <b>Eng. Ashraf Al-Haj</b> 🧑‍💼<br>
-  With the assistance of <b>Aletheia (AI Teammate)</b> 🤖✨
-</p>
+**By Eng. Aya Jamal — Quiet Wire AI**  
+Under the supervision of **Eng. Ashraf Al-Haj 👨‍🏫**  
+With the assistance of **Aletheia (AI Teammate) 🤖✨**
 
 ---
-
-<br>
 
 ## 🌟 Key Highlights
-
 - ✔️ Premium multi-language cybersecurity handbook  
-- ✔️ Organized in professional folders  
+- ✔️ Organized in professional, clean folder structure  
 - ✔️ High-quality PDFs for each language  
-- ✔️ Clean, modern, company-grade structure  
-- ✔️ Designed for students, engineers, and security beginners  
+- ✔️ Modern, company-grade documentation style  
+- ✔️ Designed for students, engineers, and cybersecurity learners  
 
 ---
 
-<br>
-
 ## 🚀 Overview
-
 This repository presents a **professional, multi-language cybersecurity handbook** created as a reference for:
 
 - Students  
@@ -37,7 +27,7 @@ This repository presents a **professional, multi-language cybersecurity handbook
 - Cybersecurity beginners  
 - Offensive & defensive security learners  
 
-It provides **clear, structured, and practical** cybersecurity knowledge in **4 languages**:
+It provides **clear, structured, practical** cybersecurity knowledge in **4 languages**:
 
 - 🇸🇦 Arabic  
 - 🇬🇧 English  
@@ -46,65 +36,47 @@ It provides **clear, structured, and practical** cybersecurity knowledge in **4 
 
 ---
 
-<br>
+## 📁 Repository Structure
+Each language has its own dedicated folder and README file:
 
-## 🗂️ Repository Structure
+- 📂 **Arabic/** → `README_AR.md`  
+- 📂 **English/** → `README_EN.md`  
+- 📂 **French/** → `README_FR.md`  
+- 📂 **Spanish/** → `README_ES.md`  
 
-Each language has its own dedicated folder and README:
-
-📂 Arabic/   → README_AR.md
-📂 English/  → README_EN.md
-📂 French/   → README_FR.md
-📂 Spanish/  → README_ES.md
-
-PDF Books included:
-
-📘 cybersecurity_handbook_AR.pdf
-📘 cybersecurity_handbook_EN.pdf
-📘 cybersecurity_handbook_FR.pdf
-📘 cybersecurity_handbook_ES.pdf
+PDF versions are included for all languages:
+- 📘 `cybersecurity_handbook_AR.pdf`  
+- 📘 `cybersecurity_handbook_EN.pdf`  
+- 📘 `cybersecurity_handbook_FR.pdf`  
+- 📘 `cybersecurity_handbook_ES.pdf`  
 
 ---
 
-<br>
-
-## 🌐 Available Languages & PDF Downloads
+## 🌍 Available Languages & PDF Downloads
 
 | Language | Folder | PDF Link |
 |---------|--------|----------|
-| 🇸🇦 Arabic  | [Arabic/](Arabic/)   | [Download PDF](Arabic/Cybersecurity%20handbook%20_AR%20(1).pdf) |
-| 🇬🇧 English | [English/](English/) | [Download PDF](English/cybersecurity%20handbook%20EN.pdf) |
-| 🇫🇷 French  | [French/](French/)   | [Download PDF](French/cybersecurity%20handbook%20FR.pdf) |
-| 🇪🇸 Spanish | [Spanish/](Spanish/) | [Download PDF](Spanish/cybersecurity%20handbook%20ES.pdf) |
+| 🇸🇦 **Arabic** | [Arabic/](Arabic/) | [Download PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/Arabic%2FCybersecurity%20handbook%20_AR%20(1).pdf) |
+| 🇬🇧 **English** | [English/](English/) | [Download PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/English%2Fcybersecurity%20handbook%20EN.pdf) |
+| 🇫🇷 **French** | [French/](French/) | [Download PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/French%2Fcybersecurity%20handbook%20FR.pdf) |
+| 🇪🇸 **Spanish** | [Spanish/](Spanish/) | [Download PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/Spanish%2Fcybersecurity%20handbook%20ES.pdf) |
 
 ---
-
-<br>
 
 ## 📚 Download Handbook (All Languages)
 
-- 🇸🇦 **Arabic Version** → [⬇️ Download Arabic PDF](Arabic/Cybersecurity%20handbook%20_AR%20(1).pdf)  
-- 🇬🇧 **English Version** → [⬇️ Download English PDF](English/cybersecurity%20handbook%20EN.pdf)  
-- 🇫🇷 **French Version** → [⬇️ Download French PDF](French/cybersecurity%20handbook%20FR.pdf)  
-- 🇪🇸 **Spanish Version** → [⬇️ Download Spanish PDF](Spanish/cybersecurity%20handbook%20ES.pdf)
+- 🇸🇦 **Arabic Version** → ⬇️ [Download Arabic PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/Arabic%2FCybersecurity%20handbook%20_AR%20(1).pdf)  
+- 🇬🇧 **English Version** → ⬇️ [Download English PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/English%2Fcybersecurity%20handbook%20EN.pdf)  
+- 🇫🇷 **French Version** → ⬇️ [Download French PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/French%2Fcybersecurity%20handbook%20FR.pdf)  
+- 🇪🇸 **Spanish Version** → ⬇️ [Download Spanish PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/Spanish%2Fcybersecurity%20handbook%20ES.pdf)  
 
 ---
 
-<br>
-
 ## 🧠 Credits
-
 - **Main Author:** Eng. Aya Jamal  
 - **Supervisor:** Eng. Ashraf Al-Haj  
 - **AI Assistant:** Aletheia 🤖✨  
 
 ---
 
-<br>
-
-<p align="center">
-  <b>✨ Quiet Wire AI — Premium Cybersecurity & Research Excellence ✨</b>
-</p>
-
-
---
+## ✨ Quiet Wire AI — Premium Cybersecurity & Research Excellence ✨
