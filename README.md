@@ -1,42 +1,37 @@
 
 
-![Made with Love](https://img.shields.io/badge/Made%20With-Love-red)
-![Focus-Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![Learning-English](https://img.shields.io/badge/Learning-English-pink)
-![Self-Education](https://img.shields.io/badge/Self--Education-Active-success)
-
-# Aya Gamal – Cybersecurity & English Learning Research Repository
-
-Welcome to my personal research & study repository.
-
-## About This Repo:
-This repo contains:
-- Cybersecurity study resources
-- English learning progress & notes
-- Summaries, references, and extracted knowledge
-- External PDF references and scientific sources
 
 ---
 
-## Main Study Book (PDF)
-📘 Main PDF Reference:  
-https://drive.google.com/file/d/1TXhAV5eOvgz8aaMU8w6dq8BVv6_X_dHC/view?usp=drivesdk
+# 🧠 Cybersecurity Multi-Language Handbook  
+### **By Eng. Aya Jamal**  
+**Under the supervision of**: Eng. Ashraf Al-Haj  
+**With the assistance of**: Aletheia  
 
 ---
 
-## Goals
-- Become a professional Cybersecurity Engineer
-- Improve English fluency
-- Build strong self-education skills
-- Document and share progress like a researcher
+### 🌍 About This Project
+This repository contains a professional, multi-language cybersecurity handbook (Arabic, English, French, and Spanish).  
+Each version is organized in its own folder with a dedicated README file.  
+
+---
+
+### 📚 Structure
+
+📁 Arabic/ ┗ README_AR.md 📁 English/ ┗ README_EN.md 📁 French/ ┗ README_FR.md 📁 Spanish/ ┗ README_ES.md
+
+---
+
+### 💡 Purpose
+This project aims to help students, engineers, and cybersecurity enthusiasts learn key principles and practices  
+in a beautifully organized and multilingual format.
+
+---
+
+### 🧩 Credits
+- Main Author: Aya Jamal  
+- Mentor: Eng. Ashraf Al-Haj  
+- Assistant & AI Partner: Aletheia
+
 
 --
-
-## Multi-Language Documentation
-
-| Language | File |
-|---------|------|
-| Arabic 🇸🇦 | [Arabic Version](README_AR.md) 
-| English 🇺🇸 | [English Version](README_EN.md) 
-| French 🇫🇷 | [French Version](README_FR.md) 
-| Spanish 🇪🇸 | [Spanish Version](README_ES.md) 
