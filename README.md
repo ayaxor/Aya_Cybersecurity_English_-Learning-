@@ -1,136 +1,107 @@
 
 
-✨ Cybersecurity Multi-Language Handbook
-
-A modern, practical, and professionally structured cybersecurity handbook created with high standards and multi-language support — designed and written by:
-
-👩‍💻 Eng. Aya Jamal
-
-Under the supervision of: Eng. Ashraf Al-Haj 🧑‍🏫
-With the assistance of: Aletheia 🤖 (AI Teammate)
-
 
 ---
 
-🔥 Project Overview
+<p align="center">
+  <img src="images/banner.jpg" alt="Aya Cybersecurity Handbook" width="100%">
+</p>
 
-This repository contains a multi-language cybersecurity handbook presented in four fully formatted and organized versions:
-
-🇸🇦 Arabic
-
-🇬🇧 English
-
-🇫🇷 French
-
-🇪🇸 Spanish
-
-
-The handbook aims to provide a clear, modern, and well-structured reference for:
-
-Students
-
-Engineers
-
-Cybersecurity beginners
-
-Ethical hacking learners
-
-Security analysts
-
-
-Helping them build both defensive and offensive cybersecurity skills in an easy, organized, and visually consistent format.
-
+# 🧠 Cybersecurity Multi-Language Handbook  
+### **By Eng. Aya Jamal**  
+#### Under the supervision of **Eng. Ashraf Al-Haj**  
+#### With assistance from **Aletheia – AI Teammate**
 
 ---
 
-🌍 Available Languages & Structure
+## 🚀 Overview
 
-Below is the clean directory layout for this repository:
+This repository contains a **professional**, **multi-language**, and **well-structured** cybersecurity handbook prepared in **four languages**:
 
-📁 Aya_Cybersecurity_English_-Learning-
- ├── 📁 Arabic
- │    └── README_AR.md
- ├── 📁 English
- │    └── README_EN.md
- ├── 📁 French
- │    └── README_FR.md
- └── 📁 Spanish
-      └── README_ES.md
+- 🇸🇦 Arabic  
+- 🇬🇧 English  
+- 🇫🇷 French  
+- 🇪🇸 Spanish  
 
-Each language folder includes:
+Each language has **its own folder**, **dedicated README**, and **PDF version** of the book.
 
-A complete README version
-
-The PDF version of the handbook
-
-
+This project demonstrates **high-level documentation, technical writing, and cybersecurity knowledge**—representing the work of an engineer, not just a student.
 
 ---
 
-📚 Handbook Contents (Overview)
+## 📥 Download Handbook (All Languages)
 
-All language versions include the same cybersecurity topics:
-
-Introduction to Cybersecurity
-
-Networks & Protocols
-
-CIA Triad
-
-Threats & Vulnerabilities
-
-Cyber Attacks
-
-Security Tools
-
-Firewalls & IDS
-
-Penetration Testing (Pentesting)
-
-Incident Response
-
-Cybersecurity Future
-
-Important Terminology
-
-
+- 🇸🇦 **Arabic Version** → [Download PDF](./Arabic/Cybersecurity_handbook_AR.pdf)  
+- 🇬🇧 **English Version** → [Download PDF](./English/Cybersecurity_handbook_EN.pdf)  
+- 🇫🇷 **French Version** → [Download PDF](./French/Cybersecurity_handbook_FR.pdf)  
+- 🇪🇸 **Spanish Version** → [Download PDF](./Spanish/Cybersecurity_handbook_ES.pdf)  
 
 ---
 
-🎯 Purpose of This Project
+## 📚 Repository Structure
 
-To empower the next generation of engineers and cybersecurity learners by providing a beautifully structured, multilingual, and accessible handbook that matches real-world standards and professional documentation style.
-
-This project is part of a professional learning journey led by Eng. Aya Jamal, showcasing her skills in:
-
-Documentation
-
-Cybersecurity fundamentals
-
-Technical writing
-
-Multi-language formatting
-
-GitHub project organization
-
-
+📁 Cybersecurity-Handbook ├── Arabic/ │    ├── README_AR.md │    └── Cybersecurity_handbook_AR.pdf │ ├── English/ │    ├── README_EN.md │    └── Cybersecurity_handbook_EN.pdf │ ├── French/ │    ├── README_FR.md │    └── Cybersecurity_handbook_FR.pdf │ ├── Spanish/ │    ├── README_ES.md │    └── Cybersecurity_handbook_ES.pdf │ ├── images/ │    └── banner.jpg │ └── README.md
 
 ---
 
-🏅 Credits
+## 🛡️ Handbook Contents
 
-👩‍💻 Main Author: Eng. Aya Jamal
+All language versions cover the same core cybersecurity topics:
 
-🧑‍🏫 Mentor: Eng. Ashraf Al-Haj
-
-🤖 AI Assistant: Aletheia
-
-
+- Introduction to Cybersecurity  
+- Networks & Protocols  
+- CIA Triad  
+- Threats & Vulnerabilities  
+- Web Security  
+- Cryptography Basics  
+- Firewalls & IDS  
+- Penetration Testing (Pentesting)  
+- Incident Response  
+- Security Tools  
+- Cybersecurity Future  
+- Essential Terminology  
 
 ---
 
-🚀 Final Note
+## 🧩 Purpose of This Project
 
-This repository represents the professional work of a dedicated engineer in training — demonstrating excellence, organization, and strong commitment to the cybersecurity field.
+To provide a **clear**, **modern**, and **multi-language** cybersecurity reference for:
+
+- Students  
+- Engineers  
+- Researchers  
+- Security Analysts  
+- Ethical Hacking Learners  
+
+---
+
+## 🏅 Credits
+
+- 👩‍💻 **Main Author:** Eng. Aya Jamal  
+- 👨‍🏫 **Mentor:** Eng. Ashraf Al-Haj  
+- 🤖 **AI Assistant:** Aletheia  
+
+---
+
+## 🧭 Contribution
+
+If you want to contribute or improve the handbook:
+
+1. Fork the repository  
+2. Open your pull request  
+3. Maintain the multi-language structure  
+
+---
+
+## 📜 License
+
+This work is licensed under the **MIT License**.  
+
+---
+
+<p align="center">
+  ⭐ **This project reflects professional engineering quality and passion for cybersecurity.** ⭐
+</p>
 
 
+---
