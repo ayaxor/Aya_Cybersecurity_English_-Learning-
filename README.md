@@ -59,3 +59,16 @@ Each language has its own folder and its own dedicated README:
 | 🇸🇦 Arabic | [`Arabic/`](Arabic/) | [Download PDF](cybersecurity%20handbook_AR.pdf) |
 | 🇬🇧 English | [`English/`](English/) | [Download PDF](cybersecurity%20handbook_EN.pdf) |
 | 🇫
+
+## 📥 Download Handbook (All Languages)
+
+- 🇸🇦 **Arabic Version** → [⏬ Download Arabic PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/Arabic%2FCybersecurity%20handbook%20_AR%20%281%29.pdf)
+
+- 🇬🇧 **English Version** → [⏬ Download English PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/English%2Fcybersecurity%20handbook%20EN.pdf)
+
+- 🇫🇷 **French Version** → [⏬ Download French PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/French%2Fcybersecurity%20handbook%20FR.pdf)
+
+- 🇪🇸 **Spanish Version** → [⏬ Download Spanish PDF](https://github.com/ayaxor/Aya_Cybersecurity_English_-Learning-/blob/main/Spanish%2Fcybersecurity%20handbook%20ES.pdf)
+
+
+-
