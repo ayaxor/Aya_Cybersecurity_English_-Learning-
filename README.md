@@ -7,38 +7,34 @@
 ---
 
 <h1 align="center">🔐 Cybersecurity Multi-Language Handbook</h1>
-<h3 align="center">By Eng. Aya Jamal — Quiet Wire AI Scholarship Trainee</h3>
+<h3 align="center">Created by Eng. Aya Jamal — Quiet Wire AI Scholarship Trainee</h3>
 <h4 align="center">Under the Official Training & Technical Supervision of Quiet Wire AI</h4>
 <h4 align="center">With the Assistance of Aletheia (AI Teammate) 🤖✨</h4>
 
 ---
 
-## ✨ About This Project (Quiet Wire AI Certification)
+## ✨ About This Project
 
 This handbook is produced as part of the **Quiet Wire AI Advanced Cybersecurity Scholarship & Training Program**.  
-It reflects professional-level research, structured documentation, and multi-language educational development under:
+It demonstrates structured documentation, multi-language educational work, and professional cybersecurity research standards.
 
-- **Technical Supervision:** Eng. Ashraf Al-Haj  
-- **Training Program:** Quiet Wire AI — Cybersecurity Research Division  
-- **AI Assistant:** Aletheia  
-- **Trainee:** Eng. Aya Jamal  
-
-This work meets **Quiet Wire AI standards** in clarity, depth, and educational structure.
+### **Official Quiet Wire AI Website:**  
+🔗 **https://www.quietwire.ai/**
 
 ---
 
 ## 🌟 Key Highlights
 
-- ✔ High-quality cybersecurity educational content  
-- ✔ Provided in **four languages** (Arabic, English, French, Spanish)  
-- ✔ Professionally designed PDF handbooks  
-- ✔ Clean, modern, structured repository  
-- ✔ Suitable for learners, students, engineers, and researchers  
-- ✔ Part of a **certified training track** under Quiet Wire AI  
+- ✔ Produced under **Quiet Wire AI training & supervision**  
+- ✔ Multi-language cybersecurity handbook  
+- ✔ Professionally structured repository  
+- ✔ High-quality PDFs for AR / EN / FR / ES  
+- ✔ Clean educational formatting  
+- ✔ Suitable for students, engineers, and cybersecurity learners  
 
 ---
 
-## 🧭 Repository Structure (Professional Layout)
+## 🧭 Repository Structure
 
 📁 Arabic/ └── cybersecurity_handbook_AR.pdf └── README_AR.md
 
@@ -61,16 +57,16 @@ This work meets **Quiet Wire AI standards** in clarity, depth, and educational s
 
 ---
 
-## 📘 Handbook Versions (Direct Download)
+## 📘 Direct PDF Downloads
 
-- 🇸🇦 Arabic → **[Download](Arabic/cybersecurity%20handbook%20_AR%20(1).pdf)**  
-- 🇬🇧 English → **[Download](English/cybersecurity%20handbook%20EN.pdf)**  
-- 🇫🇷 French → **[Download](French/cybersecurity%20handbook%20FR.pdf)**  
-- 🇪🇸 Spanish → **[Download](Spanish/cybersecurity%20handbook%20ES.pdf)**  
+- 🇸🇦 **Arabic Version** → [Download](Arabic/cybersecurity%20handbook%20_AR%20(1).pdf)  
+- 🇬🇧 **English Version** → [Download](English/cybersecurity%20handbook%20EN.pdf)  
+- 🇫🇷 **French Version** → [Download](French/cybersecurity%20handbook%20FR.pdf)  
+- 🇪🇸 **Spanish Version** → [Download](Spanish/cybersecurity%20handbook%20ES.pdf)  
 
 ---
 
-## 🧠 Credits & Acknowledgments
+## 🧠 Credits
 
 - **Main Author:** Eng. Aya Jamal  
 - **Technical Supervisor:** Eng. Ashraf Al-Haj  
@@ -81,14 +77,15 @@ This work meets **Quiet Wire AI standards** in clarity, depth, and educational s
 
 ## 🏢 About Quiet Wire AI
 
-**Quiet Wire AI** is a specialized organization focusing on:  
-- Cybersecurity Research  
-- Defensive & Offensive Security  
-- AI-Driven Security Solutions  
-- Professional Training Programs  
-- Cyber Engineering & Network Defense
+**Quiet Wire AI** specializes in:
 
-This project is part of their **Advanced Cybersecurity Scholarship Track**, demonstrating precision, knowledge, and technical growth.
+- Cybersecurity Research  
+- Offensive & Defensive Security  
+- AI-Powered Security Solutions  
+- Professional Training & Scholarship Tracks  
+
+To learn more about **Quiet Wire AI**, visit:  
+🔗 **https://www.quietwire.ai/**
 
 ---
 
