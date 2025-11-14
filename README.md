@@ -18,8 +18,8 @@
 This handbook is produced as part of the **Quiet Wire AI Advanced Cybersecurity Scholarship & Training Program**.  
 It demonstrates structured documentation, multi-language educational work, and professional cybersecurity research standards.
 
-### **Official Quiet Wire AI Website:**  
-🔗 **https://www.quietwire.ai/**
+### 🔗 Official Quiet Wire AI Website  
+https://www.quietwire.ai/
 
 ---
 
@@ -34,7 +34,7 @@ It demonstrates structured documentation, multi-language educational work, and p
 
 ---
 
-## 🧭 Repository Structure
+## 📁 Repository Structure
 
 📁 Arabic/ └── cybersecurity_handbook_AR.pdf └── README_AR.md
 
@@ -84,14 +84,43 @@ It demonstrates structured documentation, multi-language educational work, and p
 - AI-Powered Security Solutions  
 - Professional Training & Scholarship Tracks  
 
-To learn more about **Quiet Wire AI**, visit:  
-🔗 **https://www.quietwire.ai/**
+🔗 For more information:  
+**https://www.quietwire.ai/**
+
+---
+
+## 🎯 Quiet Wire AI — Mission & Vision
+
+### 🌐 Mission  
+To empower the next generation of engineers through advanced cybersecurity education, AI-driven security solutions, and hands-on professional training aligned with global standards.
+
+### ✨ Vision  
+To become a leading global center for cybersecurity research, innovation, and talent development — building highly skilled engineers capable of defending and shaping the digital future.
+
+---
+
+## 🛡️ Quiet Wire AI — Cybersecurity Training Track
+
+This handbook is developed under the **Quiet Wire AI Cybersecurity Training Track**, focusing on:
+
+- 📘 Structured cybersecurity foundation  
+- 🧠 Advanced theoretical & practical learning  
+- 🧪 Hands-on labs & real-world scenarios  
+- 🛡️ Defensive & offensive security  
+- 🤖 AI integration in cybersecurity  
+- 🏗 Professional documentation & engineering writing  
+- 🌍 Multi-language technical publishing  
+
+This track aims to build engineers who can:
+
+- Analyze threats  
+- Understand attack mechanisms  
+- Design secure architectures  
+- Document professionally  
+- Produce work matching real cybersecurity companies  
 
 ---
 
 <p align="center">
   ✨ <b>Quiet Wire AI — Cybersecurity & Research Excellence</b> ✨
 </p>
-
-
----
