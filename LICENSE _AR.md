@@ -1,14 +1,14 @@
 
+# ترخيص الاستخدام التدريبي
 
-# Training License
+حقوق النشر (c) ‎2025 م. م. آية جمال وبرنامج QuietWire AI للتدريب.
 
-Copyright (c) 2025 Eng. Aya Jamal and QuietWire AI Training Program.
+يُسمح باستخدام هذا المحتوى ونسخه وتعديله **لأغراض التعلّم والتدريب الداخلي فقط**، بشرط:
 
-Permission is granted to use, copy, and modify this material **for learning and internal training purposes only**, provided that:
+- إبقاء هذا الإشعار في جميع النسخ أو الأجزاء الجوهرية من المحتوى.
+- عدم بيع المحتوى أو إعادة توزيعه كمنتج تجاري مستقل.
+- الحفاظ على الإشارة إلى المؤلفين الأصليين وبرنامج QuietWire AI.
 
-- This notice is included in all copies or substantial portions of the material.
-- The material is not sold or redistributed as a commercial product.
-- References to the original authors and QuietWire AI are kept.
+يتم توفير هذا المحتوى "كما هو" بدون أي ضمانات صريحة أو ضمنية،  
+ولا يتحمّل المؤلفون أو QuietWire AI أي مسؤولية عن أي أضرار قد تنتج عن استخدامه.
 
-THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-THE AUTHORS AND QuietWire AI ARE NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM ITS USE.
