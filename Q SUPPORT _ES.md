@@ -24,3 +24,6 @@ El soporte responderá en un tiempo razonable, dependiendo de la carga de trabaj
 
 Redactado por **Ing. Aya Jamal**
 
+
+📧 Contacto oficial: aya@quietwire.ai
+
