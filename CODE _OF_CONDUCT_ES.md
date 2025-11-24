@@ -26,3 +26,6 @@ todos los colaboradores deben cumplir con las siguientes reglas:
 Redactado por **Ing. Aya Jamal**  
 Supervisión técnica: **Ing. Ashraf Al-Haj**
 
+
+📧 Contacto oficial: aya@quietwire.ai
+
