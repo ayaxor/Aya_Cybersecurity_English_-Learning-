@@ -34,3 +34,5 @@ If you see behavior that violates this Code of Conduct:
 Maintainers may warn, restrict, or remove participation from anyone who violates this Code of Conduct.
 
 By contributing or using this repository, you agree to follow these rules.
+
+📧 Official Contact: aya@quietwire.ai
