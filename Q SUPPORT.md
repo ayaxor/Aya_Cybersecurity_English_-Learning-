@@ -23,3 +23,5 @@ You can ask for help when:
 - GitHub Issues (for technical questions about this repo).
 - Your mentor (for training or task-related questions).
 - Any internal QuietWire communication channel defined by your team.
+
+📧 Official Contact: aya@quietwire.ai
