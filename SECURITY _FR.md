@@ -22,3 +22,7 @@ Si vous découvrez un problème ou une faille :
 
 Supervision : **Ing. Ashraf Al-Haj**
 
+
+📧 Contact officiel : aya@quietwire.ai
+
+✔️
