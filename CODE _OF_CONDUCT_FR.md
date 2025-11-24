@@ -26,3 +26,7 @@ tous les contributeurs doivent respecter les règles suivantes :
 Rédigé par **Ing. Aya Jamal**  
 Supervision technique : **Ing. Ashraf Al-Haj**
 
+
+📧 Contact officiel : aya@quietwire.ai
+
+✔️
