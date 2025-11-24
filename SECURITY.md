@@ -32,3 +32,5 @@ please:
 
 This repository is for **learning to protect systems**, not for causing harm.
 
+
+📧 Official Contact: aya@quietwire.ai
