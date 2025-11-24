@@ -22,3 +22,6 @@ Si descubre un problema o una posible vulnerabilidad:
 
 Supervisión técnica: **Ing. Ashraf Al-Haj**
 
+
+📧 Contacto oficial: aya@quietwire.ai
+
