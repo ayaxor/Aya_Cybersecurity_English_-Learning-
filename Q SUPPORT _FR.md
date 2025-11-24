@@ -27,3 +27,7 @@ Rédigé par **Ing. Aya Jamal**
 
 
 ---
+
+📧 Contact officiel : aya@quietwire.ai
+
+✔️
